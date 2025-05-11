@@ -66,7 +66,7 @@ To run application test run:
 Payment allocation results for each order.
 
 ```bash
-Wyniki przypisania platnosci:                                                                                                                                                                                                       
+Wyniki przypisania platnosci:
 PUNKTY: 100.00
 BosBankrut: 190.00
 mZysk: 165.00
