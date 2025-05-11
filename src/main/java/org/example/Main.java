@@ -13,7 +13,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws Exception {
         if (args.length != 2) {
-            System.err.println("Usage: java -jar app.jar <orders.json> <paymentmethods.json>");
+            System.err.println("Usage: java -jar payment-promotions-1.0-SNAPSHOT.jar <orders.json> <paymentmethods.json>");
             System.exit(1);
         }
 
